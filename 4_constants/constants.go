@@ -5,9 +5,10 @@ import (
 	"math"
 )
 
+// this is allowed not , infer waay - X s:= "constant" X
 const s string = "constant"
 
-func constants() {
+func main() {
 
 	fmt.Println(s)
 	const n = 5000

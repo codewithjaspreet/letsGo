@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func forLoops() {
+func main() {
 
 	// this is simple for loop with a condition
 

@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-func switchKeyword() {
+func main() {
 
 	// simple switch use case
 

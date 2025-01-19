@@ -17,6 +17,8 @@ func slicesImpl() {
 
 	s = make([]string, 3)
 
+	/// capcity is maximum n
+
 	fmt.Println("emp", s, "len", len(s), "cap", cap(s))
 
 	// slices have append functionality

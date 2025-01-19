@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 // there is no ternary if in golang
-func conditionalStatements() {
+func main() {
 
 	if 7%2 == 0 {
 		fmt.Println("7 is even")
